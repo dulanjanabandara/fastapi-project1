@@ -1,5 +1,8 @@
 __pycache__/
 
 .vscode/
+.idea/
 
 fastapienv/
+
+todos.db
